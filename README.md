@@ -1,2 +1,2 @@
-# IMLP388Jonathan
+# IMLP
 This is a NTUTRAIN IMLP course. 
